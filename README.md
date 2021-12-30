@@ -5,7 +5,9 @@ Foi dada a missão de utilizarmos todos os conhecimentos adquiridos durante o cu
 para desemvolver um projeto que realizasse todas as funções de um CRUD (Create, Read, Update, Delete).
 Por termos pouco tempo para implementar algo mas  complexos, foi acordado entre a equipe
 de desenvolvermos uma Agenda de Contatos onde a mesma teria que atender os requisitos.
-Aplicação WEB foi desenvolvida com JAVA e o framework SPRING BOOT.
+
+## Aplicação WEB
+ Foi desenvolvida com JAVA e o Framework SPRING BOOT.
 
 ## BANCO DE DADOS
 Para armazenar os dados utilizamos o MYSQL.
